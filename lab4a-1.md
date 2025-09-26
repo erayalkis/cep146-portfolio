@@ -90,7 +90,7 @@ When professors teach a class to students in a classroom or lab and broadcast it
   - Seneca upholds a learning community that values academic integrity, honesty, fairness, trust, respect, responsibility and courage.
   -Seneca is committed to delivering high-quality education and teaching excellence while supporting a positive, equitable and inclusive learning environment.  
 - Academic integrity program
-  -Academic integrity is fundamental to ensure the academic credentials granted by Seneca accurately demonstrate the knowledge and learning of students from all backgrounds and experiences.
+  - Academic integrity is fundamental to ensure the academic credentials granted by Seneca accurately demonstrate the knowledge and learning of students from all backgrounds and experiences.
   - The integrated nature of the program requires that policy and procedure, development and training for faculty, along with training sessions and student life programming, be aligned with the institutional philosophies and approaches to academic integrity.
 - Responsibilities
   - Seneca is responsible for providing information and resources to students focused on ensuring a clear understanding of academic integrity, its importance, what can be done to avoid violations, and how to receive support to achieve a resolution if they occur.
