@@ -86,7 +86,7 @@ When professors teach a class to students in a classroom or lab and broadcast it
 
 ## Policy
 
-= General
+- General
   - Seneca upholds a learning community that values academic integrity, honesty, fairness, trust, respect, responsibility and courage.
   -Seneca is committed to delivering high-quality education and teaching excellence while supporting a positive, equitable and inclusive learning environment.  
 - Academic integrity program
