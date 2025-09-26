@@ -15,11 +15,11 @@ Hello! My name is **Eray Alkis**. My favourite hobby is *electronics*. I enjoy d
 - Slices of cheese
 
 ## Steps
-- Butter the bread
-- Place cheese between bread
-- Place in pan on medium
-- Wait 2-3 minutes per each side **(Make sure not to burn it! :) )**
-- Voila
+1. Butter the bread
+2. Place cheese between bread
+3. Place in pan on medium
+4. Wait 2-3 minutes per each side **(Make sure not to burn it! :) )**
+5. Voila
 
 -----
 
