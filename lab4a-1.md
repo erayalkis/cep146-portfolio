@@ -18,7 +18,7 @@ Hello! My name is **Eray Alkis**. My favourite hobby is *electronics*. I enjoy d
 - Butter the bread
 - Place cheese between bread
 - Place in pan on medium
-- Wait 2-3 minutes per each side
+- Wait 2-3 minutes per each side **(Make sure not to burn it! :) )**
 - Voila
 
 -----
