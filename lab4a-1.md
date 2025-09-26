@@ -104,3 +104,11 @@ When professors teach a class to students in a classroom or lab and broadcast it
 ### Supporting documentation
 - [Appendix A: Academic Integrity Procedures](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html#app_a)
 - [Appendix B: Academic Integrity Sanctions](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html#app_b)
+
+## Appendix A: Academic integrity procedure
+
+### Information gathering and assessment
+
+| Action | Duration, unless extenuating circumstances arise | Responsibility |
+|---|---|---|
+| 1. Report the witnessing or suspicion that an academic integrity violation has occurred to the designate in your school/program. | As soon as possible, within a reasonable timeframe to assess the violation, as determined by the chair.	 | Faculty, invigilator, student, support staff |
