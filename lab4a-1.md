@@ -100,3 +100,7 @@ When professors teach a class to students in a classroom or lab and broadcast it
   - Academic integrity sanctions will be applied according to the severity of the violation committed. (See Appendix B for the academic integrity sanctions.)
   - Before final decisions are made and/or sanctions are applied, the student’s record should be consulted to determine if there were aggravating and/or mitigating factors to the academic integrity violation.
   - Should a suspected violation of this policy result from, or be combined with, a suspected violation of Seneca’s Student Code of Conduct and/or another non-academic-related Seneca policy, the matter will be investigated and adjudicated through the processes found in the Student Code of Conduct.
+
+### Supporting documentation
+- [Appendix A: Academic Integrity Procedures](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html#app_a)
+- [Appendix B: Academic Integrity Sanctions](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html#app_b)
